@@ -1,0 +1,11 @@
+symbol,name,primaryExchange,securityType,country,ipoYear,sector,industry
+A, MDT,Medtronic plc. Ordinary Shares,NYSE,STK,United States,-1,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
+B, ABT,Abbott Laboratories Common Stock,NYSE,STK,United States,-1,Health Care,Major Pharmaceuticals
+C, C,Citigroup Inc. Common Stock,NYSE,STK,United States,-1,Finance,Major Banks
+D, V,Visa Inc.,NYSE,STK,United States,-1,Miscellaneous,Business Services
+E, NKE,Nike Inc. Common Stock,NYSE,STK,United States,-1,Consumer Non-Durables,Shoe Manufacturing
+F, FIS,Fidelity National Information Services Inc. Common Stock,NYSE,STK,United States,-1,Miscellaneous,Business Services
+G, CAT,Caterpillar Inc. Common Stock,NYSE,STK,United States,-1,Capital Goods,Construction/Ag Equipment/Trucks
+H, XOM,Exxon Mobil Corporation Common Stock,NYSE,STK,United States,-1,Energy,Integrated oil Companies
+I, DIS,Walt Disney Company (The) Common Stock,NYSE,STK,United States,-1,Consumer Services,Services-Misc. Amusement & Recreation
+J, IBM,International Business Machines Corporation Common Stock,NYSE,STK,United States,-1,Technology,Computer Manufacturing
